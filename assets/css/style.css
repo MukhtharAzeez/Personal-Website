@@ -1348,3 +1348,8 @@ section {
 #myimage2{
   height: 25em;
 }
+#gform .form-control,#gform button{
+ background-color: #000000;
+ color: #fff;
+ border-color: #cda45e;
+}
